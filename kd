@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        height: 100vh;
+        margin: 0;
+        padding: 10px;
+	font-size: 20px;
+      }
+
+      a {
+	justify-content: center;
+        text-align: justify;
+        margin-left: 500px;
+        margin-right: 50px;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Chào cả nhà, vì mình mới học sơ sơ về thiết kế trang web nên hơi sơ sài tí.</p>
+    <p>Đại khái thì trang này để cả nhà gửi email hàng loạt nhé, nhưng mà link chỉ có 1 nên mọi người nhường nhau và dùng xong <b>nhớ xóa dữ liệu</b> nha.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+    <a href="https://docs.google.com/document/d/17I8cTjHp7HmHuLob9FJj7jrTiU_Qpbva1-Cxl8xJn4g/edit">Bấm vào đây để vào docs viết thư</a><br>
+    <br>
+    <a href="https://docs.google.com/spreadsheets/d/1awYk98La7_nFG2nZMAjknmnBM6fx423_neO4e7mH7yk/edit?usp=sharing">Bấm vào đây để vào sheet điền biến số</a>
+  </body>
+</html>
